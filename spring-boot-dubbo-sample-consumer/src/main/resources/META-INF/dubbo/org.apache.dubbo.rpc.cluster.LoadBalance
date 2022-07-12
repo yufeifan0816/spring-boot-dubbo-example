@@ -1,0 +1,1 @@
+gploadbalance=com.gupaoedu.springboot.dubbo.springbootdubbosampleconsumer.GpDefineLoadBalance
